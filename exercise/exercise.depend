@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1453995202 source:c:\users\eric\documents\university of waterloo\course\ansi c\exercise\main.c
+	<stdio.h>
+	<stdlib.h>
+
